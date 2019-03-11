@@ -1,0 +1,10 @@
+{
+  "name": "retina-resizer",
+  "version": 2,
+  "builds": [
+    {
+      "src": "src/main.rs",
+      "use": "@now/rust"
+    }
+  ]
+}
