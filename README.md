@@ -10,5 +10,6 @@ $ rr # resizes any image in your clipboard and puts it back in your clipboard
 ## Developing
 
 ```bash
-$ cargo run
+$ cargo build --release
+$ ./target/release/retina-resizer
 ```
